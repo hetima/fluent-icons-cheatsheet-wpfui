@@ -12,7 +12,7 @@ def download_font(url, output_path):
     print(f"✅ Font downloaded to {output_path}")
     return output_path
 
-def generate_cheatsheet(font_path, output_html='fluent_icons_cheatsheet.html'):
+def generate_cheatsheet(font_path, output_html='index.html'):
     # Load font
     font = TTFont(font_path)
     cmap = font.getBestCmap()
