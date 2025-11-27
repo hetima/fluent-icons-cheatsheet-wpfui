@@ -1,1 +1,7 @@
+# Downloaded font file (auto-downloaded by script)
+*.ttf
 
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
