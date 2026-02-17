@@ -1,8 +1,11 @@
-# Fluent Icons Cheatsheet
+# Fluent Icons Cheatsheet for WPF UI
 
 A searchable, interactive cheatsheet for Microsoft's Fluent System Icons. Browse, search, and copy icon codepoints.
 
-**[📋 View the Cheatsheet](https://enci.github.io/fluent-icons-cheatsheet/)**
+**[View the Cheatsheet](https://hetima.github.io/fluent-icons-cheatsheet-wpfui/)**
+
+> [!NOTE]
+> This is the fork of [enci/fluent-icons-cheatsheet](https://github.com/enci/fluent-icons-cheatsheet). Icon name has been adjusted to match the format used in [WPF UI](https://github.com/lepoco/wpfui).
 
 ## Features
 
